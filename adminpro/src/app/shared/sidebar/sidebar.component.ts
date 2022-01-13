@@ -6,7 +6,7 @@ import { SidebarService } from 'src/app/services/sidebar.service';
   templateUrl: './sidebar.component.html',
   styles: [
   ]
-})
+}) 
 export class SidebarComponent implements OnInit {
 
   menuItems: any[] | undefined;
